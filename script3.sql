@@ -1,0 +1,1 @@
+select product_name from netology.orders having name='alexey'
